@@ -1,0 +1,68 @@
+COP1010 - Assignment 06
+
+Read:Readme.txt of The project on Github. 
+
+***Remember to use the folder with the name of the project provided as the destiantion folder when creating a project in VS.***
+
+[Optional Reading (For the curious)]:
+6.3 - Passing By Value (Normal Way)
+6.4 - Passing By Reference (Like C++) we are not gonna use it. (Using Output Parameters)
+7.8 - Jagged Arrays
+Chapter 08 
+
+[Requiered]: 
+7.6 - Advanced Algorithms for Sorting and Searching Arrays.Selection Sorting,Binary Search.
+7.9 - The List Collections 
+8.5 - The ImageList Control
+
+[Useful Links.]
+(Might be needed for the assignment:)
+https://www.bigocheatsheet.com/
+https://www.tutorialspoint.com/selection-sort-program-in-chash
+https://www.geeksforgeeks.org/c-sharp-removing-all-the-elements-from-the-list/
+https://www.c-sharpcorner.com/UploadFile/mahesh/set-size-of-a-list-in-C-Sharp/
+https://www.c-sharpcorner.com/article/c-sharp-list/
+https://www.draw.io/
+http://www.iconarchive.com/
+(Learning:)
+https://drive.google.com/open?id=1QdGoCbNERwp4k7VXc_ERFJOXcGzAyjhV
+https://drive.google.com/open?id=14v_5t8ozOifrdMnaCpiXkbp4PC3ljYsL
+https://www.linkedin.com/ [Miguel (Use FIU Account)]
+(Installations:)
+Visual Studio:
+https://developer.microsoft.com/en-us/windows/downloads
+GitHub Desktop:
+https://desktop.github.com/
+
+[Requirements:]
+- Your program should not crash and must function like in the output provided (Which means that additional code might be required to accomplish this).*
+- Program must have an Icon (Choose the one you like).
+- Program must have a name.
+- Name of controls same as output provided.
+- Cannot change size of the window program while running.
+- I do NOT care about size but everything should look similar as the output.
+- Your program must have shortcuts with the buttons.
+- Your program must use the Tab Index property with some controls to make it more efficient to use.
+- OrderList and Show Values should no be clickable at the beggining of the program.*
+- Close Button Should Exit the program.
+- When you click show values button should disable the button like in the output provided.
+- When you click Order List button should disable the button like in the output provided.
+- Text box should do the same as the output provided. *
+- Next button should display the next cards. *
+- Previous button should display the previous cards. *
+- ShowValues button should generate "X" amount of numbers based on the number you input in the textbox (The numbers that are going to be generated will be random numbers from 1 to 100). The ListBox Original Should show the values generated.*
+- OrderList button should display the second listbox with the numbers ordered (you must use like in Data Structures: Selection Sorting Algorithm). In addition it should display a message saying the running time complexity of the algorithm used to order the numbers.(Careful whith out of bound exception).
+- Clear button should clear "everything" like in the output.
+
+[Additional Requirements:]
++ Flowchart for at least one part of the code.
++ UML Diagram.
+
+Rubric:
+40: Code (Comments,Efficiency,Naming,Format,Correct Output)
+40: GUI  (Naming,Correct Output)
+10: Flowchart (Correct Output)
+10: UML (Correct Output)
+
+Submission (On Github):
+- Do the fork to get the project, do the changes, make a pull request from your project and your branch to mine project your branch.

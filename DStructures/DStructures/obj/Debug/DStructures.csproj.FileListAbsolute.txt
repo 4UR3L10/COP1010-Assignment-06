@@ -1,0 +1,9 @@
+C:\Users\w_ara\Documents\GitHub\COP1010-Assignment-06\DStructures\DStructures\bin\Debug\DStructures.exe.config
+C:\Users\w_ara\Documents\GitHub\COP1010-Assignment-06\DStructures\DStructures\bin\Debug\DStructures.exe
+C:\Users\w_ara\Documents\GitHub\COP1010-Assignment-06\DStructures\DStructures\bin\Debug\DStructures.pdb
+C:\Users\w_ara\Documents\GitHub\COP1010-Assignment-06\DStructures\DStructures\obj\Debug\DStructures.csprojAssemblyReference.cache
+C:\Users\w_ara\Documents\GitHub\COP1010-Assignment-06\DStructures\DStructures\obj\Debug\DStructures.FormDataStructures.resources
+C:\Users\w_ara\Documents\GitHub\COP1010-Assignment-06\DStructures\DStructures\obj\Debug\DStructures.Properties.Resources.resources
+C:\Users\w_ara\Documents\GitHub\COP1010-Assignment-06\DStructures\DStructures\obj\Debug\DStructures.csproj.GenerateResource.cache
+C:\Users\w_ara\Documents\GitHub\COP1010-Assignment-06\DStructures\DStructures\obj\Debug\DStructures.exe
+C:\Users\w_ara\Documents\GitHub\COP1010-Assignment-06\DStructures\DStructures\obj\Debug\DStructures.pdb
